@@ -1,3 +1,3 @@
 # my-portfolio
-My portfolio
-This is under development
+My portfolio is under development.
+
